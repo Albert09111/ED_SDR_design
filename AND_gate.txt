@@ -1,0 +1,6 @@
+input -> a
+input -> b
+
+output -> c
+
+AND(a,b) -> c

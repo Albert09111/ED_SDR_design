@@ -1,0 +1,18 @@
+input -> a
+input -> b
+input -> c
+input -> d
+input -> e
+input -> f
+input -> g
+input -> h
+
+output -> o
+
+OR(a,b) -> i
+OR(c,d) -> j
+OR(e,f) -> k
+OR(g,h) -> l
+OR(i,j) -> m
+OR(k,l) -> n
+OR(m,n) -> o

@@ -1,0 +1,10 @@
+input -> a
+input -> b
+input -> c
+input -> d
+
+output -> g
+
+OR(a,b) -> e
+OR(c,d) -> f
+AND(e,f) -> g
