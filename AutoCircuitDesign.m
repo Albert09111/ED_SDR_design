@@ -1,5 +1,8 @@
 function [circuit_seq_info] = AutoCircuitDesign(design_script_name)
  %function [circuit_seq_info] = AutoCircuitDesign(design_script_name)
+ 
+addpath('lib');
+ 
 [input_info,output_info,gate_info] = parseScript2domain(design_script_name);
 input_output_info = [input_info;output_info];
 
