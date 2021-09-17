@@ -1,7 +1,7 @@
 # ED-SDR compiler
 ![image](pic/scheme2.png)
 
-A package to design DNA molcular circuit driven by enzyme 
+A package to design DNA molecular circuit driven by enzyme 
 
 # Usage: 
   - the circuit design script is written in txt files:   `AutoCircuitDesign('AND_gate.txt')`
